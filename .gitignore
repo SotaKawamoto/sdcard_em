@@ -1,0 +1,9 @@
+BUILD
+.mbed
+compile_commands.json
+.clangd
+.cache
+mbed
+BOARDC_BNO055
+BOARDC_BME280
+SDFileSystem
